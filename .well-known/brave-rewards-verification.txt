@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: alexforsale.github.io
+Token: c377c4a44c482fa5954393319f1a201ca0ff2648db2da58a864cd81f49f01dcf
