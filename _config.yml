@@ -1,5 +1,5 @@
 # Site settings
-name: Christian Alexander
+name: Kristian Alexander P
 description: "The Worlds of alexforsale"
 url: ""
 
@@ -24,7 +24,7 @@ reddit_username: elasrofxela
 #tumblr_username: your_tumblr_username_goes_here
 #weibo_username: your_weibo_username_goes_here
 lastfm_username: alexforsale
-blog_url: "blog/"
+blog_url: "https://gentoo.java281.dynv6.net/~alexforsale/"
 email: alexforsale@yahoo.com
 public_key_url: public_key.asc
 
